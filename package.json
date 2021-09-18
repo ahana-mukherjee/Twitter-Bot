@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/acm-iem/Twitter-Bot/issues"
   },
-  "homepage": "https://github.com/acm-iem/Twitter-Bot#readme"
+  "homepage": "https://github.com/acm-iem/Twitter-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
 }
